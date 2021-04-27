@@ -1,19 +1,3 @@
-"""
-
-2020
-
-Scaffolding code for the Machine Learning assignment.
-
-You should complete the provided functions and add more functions and classes as necessary.
-
-You are strongly encourage to use functions of the numpy, sklearn and tensorflow libraries.
-
-You are welcome to use the pandas library if you know it.
-
-
-"""
-
-# import necessary libraries
 import numpy as np
 from sklearn.metrics import classification_report
 from sklearn.model_selection import train_test_split, GridSearchCV
